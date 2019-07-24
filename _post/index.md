@@ -15,4 +15,6 @@ Always be responsible in keeping your unit in good state and ALWAYS report issue
 - **[LINK] Health & Safety** : (fire alarms , fire exits, electrical systems, safety hazards, etc.)
 - **[LINK] Crime & Security** : (theft, vandalism, drugs, violence, etc.)
 
+Each of the services keeps their own case records and can testify at Landlord & Tenant Board Hearings.
+
 For all inquires contact our HelpLine +1-519-579-3800 or [email](mailto:info@waterlooregion.org)
