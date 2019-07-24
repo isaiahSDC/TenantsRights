@@ -3,7 +3,7 @@ layout: default
 title:  Maintenance & Repairs 
 ---
 
-# Maintenance & Repairs
+# Tenants Rights for Maintenance & Repairs
 
 Contact the landlord in writing– a work order or a demand letter. 
 
